@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/kasyap_cs19b050/static/css/main.f3e01a9a.chunk.css",
+    "main.js": "/kasyap_cs19b050/static/js/main.4f04794d.chunk.js",
+    "main.js.map": "/kasyap_cs19b050/static/js/main.4f04794d.chunk.js.map",
+    "runtime-main.js": "/kasyap_cs19b050/static/js/runtime-main.1c624de7.js",
+    "runtime-main.js.map": "/kasyap_cs19b050/static/js/runtime-main.1c624de7.js.map",
+    "static/js/2.334f95f8.chunk.js": "/kasyap_cs19b050/static/js/2.334f95f8.chunk.js",
+    "static/js/2.334f95f8.chunk.js.map": "/kasyap_cs19b050/static/js/2.334f95f8.chunk.js.map",
+    "index.html": "/kasyap_cs19b050/index.html",
+    "static/css/main.f3e01a9a.chunk.css.map": "/kasyap_cs19b050/static/css/main.f3e01a9a.chunk.css.map",
+    "static/js/2.334f95f8.chunk.js.LICENSE.txt": "/kasyap_cs19b050/static/js/2.334f95f8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c624de7.js",
+    "static/js/2.334f95f8.chunk.js",
+    "static/css/main.f3e01a9a.chunk.css",
+    "static/js/main.4f04794d.chunk.js"
+  ]
+}
